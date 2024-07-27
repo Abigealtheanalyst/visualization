@@ -10,25 +10,24 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good Visualization - (Here)[https://www.columnfivemedia.com/work/ncsa-how-far-do-college-athletes-travel-to-play/]
 
+      Because the title makes it obvious what the graph is displaying and because colour adds aesthetic appeal, this is an effective visualisation. Sports for men and women separate the colours as well. The miles are listed above each graph, despite the absence of a y-axis. The graph's ability to display a trend from highest to lowest makes it visually appealing.
+      
+      The graph is both substantive and perceptual; it provides information about the women's volleyball team, which has the highest bar, as well as the number of volleyball programs across the nation, along with a clear explanation of why their average mileage is the highest. By identifying the regions with the highest number of volleyball programs, the information is supported. In order to avoid bias, the data visualisation also includes a generic statement at the foot of the graphs.
 
+      Bad Visualization - (Here)[https://www.flickr.com/photos/densitydesign/8089717433/in/album-72157631774207511/]
 
-
-
-
+      The map shows foreign residents in Milan, with balloon size indicating population and color representing the percentage of foreigners. The map is cluttered with numerous balloons of varying sizes, increasing cognitive load and making it difficult to interpret and analyze the data effectively making the detailes stressful to comprehend.
+      The map oversimplifies geographic features, missing important contextual details like streets and landmarks. Despite the many balloons, the simplified map lacks critical geographic context that could aid in understanding the data distribution and its relation to real-world locations.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Good: Since the visualisation contains more information on volleyball than other sports, it is biassed. Additionally, because different sports are employed, the miles indicate that female athletes travel more, which makes the use of the same sports for men's and women's teams unethical.
 
+      Bad: Reducing the number of bubbles and merging comparable areas will help to lower the information density. For instance, to reduce visual clutter and make the map easier to comprehend, only show the important regions or utilise aggregated bubbles. Next to the map, include a stacked bar chart that shows the percentage of foreigners in each area. By adding another layer of information, this supplemental graphic helps users make sense of the data and compare it with the information on the map.
 
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
