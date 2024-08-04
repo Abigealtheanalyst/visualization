@@ -22,7 +22,7 @@ Link: [The Economist](https://www.economist.com/graphic-detail/2015/05/12/seekin
         ```   
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
- 1. Good Visualization: Seeking Safety - European Asylum Application Flows (wifi_spot_in_Milan.jpg)
+ 1. Bad Visualization: Seeking Safety - Wifi Spots in Milan.
 Link: [Flickr](https://www.flickr.com/photos/densitydesign/8089715651/in/album-72157631774207511/)
 ![wifi_spot_in_Milan](https://github.com/user-attachments/assets/619abdc5-971f-49e2-86ae-a4d823dbfdb0)
 
