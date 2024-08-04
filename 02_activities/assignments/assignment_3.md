@@ -7,17 +7,35 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+    1. Good Visualization: Seeking Safety - European Asylum Application Flows 
+Link: [The Economist](https://www.economist.com/graphic-detail/2015/05/12/seeking-safety)
+![Europe_Asylum](https://github.com/user-attachments/assets/561ae5e7-3d6f-4ad9-891a-200bc5ba5050)
 
+    a. The visualization uses a color-coded map with distinct colors for each category of asylum applications per million people. The use of color is essential for quick comprehension, but it may present challenges for individuals with color blindness unless sufficient contrast and pattern differentiation are used.
 
+    b. The map is relatively simple and provides clear information regarding asylum applications across different European countries, making it easy to understand
 
-        ```
+    c. The visualization is equitable within its scope, presenting data neutrally and focusing on a significant issue. However, it could provide a more comprehensive view by including broader geographic coverage or demographic breakdowns.
+
+    d. While the data source is reliable, the lack of a direct data download link or detailed methodology hampers full reproducibility.
+
+        ```   
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+ 1. Bad Visualization: Seeking Safety - Wifi Spots in Milan.
+Link: [Flickr](https://www.flickr.com/photos/densitydesign/8089715651/in/album-72157631774207511/)
+![wifi_spot_in_Milan](https://github.com/user-attachments/assets/619abdc5-971f-49e2-86ae-a4d823dbfdb0)
 
+a. Overcomplexity: There are too many variables and pieces of information presented simultaneously, which can confuse viewers and hinder their ability to focus on key insights.
 
+b. Unclear Labels and Legends: The labels and legends are not immediately clear or readable, making it hard for viewers to understand what each part of the graphic represents.
 
+c. Static Presentation: As a static image, it doesn’t provide interactive elements that could help break down complex information, such as tooltips or dynamic filtering.
+
+The visualization can be improved by:
+Focusing on Key Insights: Streamline the design by focusing on a few key data points or insights.
+Readable Typography: Use a larger, legible font that is easy to read. Maintain consistent font sizes and avoid overly stylized text.
+Provide Context: That is, add brief explanations or context around the data to help viewers Provide Context: Add brief explanations or context around the data to help viewers 
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
