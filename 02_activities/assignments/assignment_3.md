@@ -7,8 +7,9 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-    1. Good Visualization: Seeking Safety - European Asylum Application Flows (Europe_Asylum.png)
+    1. Good Visualization: Seeking Safety - European Asylum Application Flows 
 Link: [The Economist](https://www.economist.com/graphic-detail/2015/05/12/seeking-safety)
+![Europe_Asylum](https://github.com/user-attachments/assets/561ae5e7-3d6f-4ad9-891a-200bc5ba5050)
 
     a. The visualization uses a color-coded map with distinct colors for each category of asylum applications per million people. The use of color is essential for quick comprehension, but it may present challenges for individuals with color blindness unless sufficient contrast and pattern differentiation are used.
 
@@ -22,7 +23,8 @@ Link: [The Economist](https://www.economist.com/graphic-detail/2015/05/12/seekin
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
  1. Good Visualization: Seeking Safety - European Asylum Application Flows (wifi_spot_in_Milan.jpg)
-Link: [The Economist](https://www.flickr.com/photos/densitydesign/8089715651/in/album-72157631774207511/)
+Link: [Flickr](https://www.flickr.com/photos/densitydesign/8089715651/in/album-72157631774207511/)
+![wifi_spot_in_Milan](https://github.com/user-attachments/assets/619abdc5-971f-49e2-86ae-a4d823dbfdb0)
 
 a. Overcomplexity: There are too many variables and pieces of information presented simultaneously, which can confuse viewers and hinder their ability to focus on key insights.
 
