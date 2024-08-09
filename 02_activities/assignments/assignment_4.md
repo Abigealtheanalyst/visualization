@@ -9,21 +9,44 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
-    > Who is your intended audience? 
+    The data visualization was created using Python, specifically utilizing the libraries pandas and matplotlib. Also, I made use of Tableau Public.
+
+    > Who is your intended audience?
+
+    The intended audience for this visualization includes HR professionals, business analysts, and managers who are interested in understanding trends in employee data over time. This can help in strategic decision-making related to staffing, employee retention, and talent management.
     
-    > What information or message are you trying to convey with your visualization? 
     
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+
+    > What information or message are you trying to convey with your visualization?
+
+    By visualizing this data, the audience can identify patterns, such as department loosing the most human capital, which can inform HR strategies and interventions to improve employee morale and retention.
+    The charts clearly shows how many employees have left the company (attrition = 'Yes') versus those who have stayed (attrition = 'No') for each department.
     
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+
+    Substantive: The visualization focuses on a specific metric (employee satisfaction) that is critical for HR decision-making.
+    Perceptual: I used clear labeling and distinct colors to ensure the trends are easily distinguishable and the data points are not cluttered.
+    Aesthetic: Also, I chose a color palette that is visually appealing and ensures the lines and markers are easy to differentiate.
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+
+    The visualization is reproducible because the code is written in Python, which is a widely-used, open-source programming language. The code can be shared and executed on any machine with Python and the necessary libraries installed, ensuring consistent results across different platforms.
+    
+    > How did you ensure that your data visualization is accessible? 
+
+    To ensure accessibility, my visualization includes clear labels, legends, and color choices that are distinguishable for individuals with color vision deficiencies. Additionally, the plot is designed to be interpretable without requiring complex data literacy.
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+
+    The individuals and communities impacted by this visualization include employees, HR teams, and organizational leaders. The insights gained can influence HR policies, employee engagement strategies, and overall company culture.
     
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+
+    The choice of features was driven by the goal to analyze employee satisfaction over time. Thus, only the relevant columns (e.g., department, and satisfaction score and attrition rates) were selected for the chat to maintain focus and clarity.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    
+    The 'underwater labour' involved data cleaning, which included handling missing values, ensuring data types were consistent, and selecting appropriate columns. Additionally, deciding on the most effective way to represent the data visually required consideration of various visualization techniques before settling on a bar and pie charts.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
